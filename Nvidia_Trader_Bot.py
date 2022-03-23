@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-""" AI Project. Stock Trader Bot """
+""" AI Project. Stock Trader Bot (without the deep learning) """
 __author__="Alex Lagarde"
 
 # In[1]:
