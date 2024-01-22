@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-Artificial Intelligence class with python
+# Artificial-Intelligence CSC 4440
+Artificial Intelligence course using python 
